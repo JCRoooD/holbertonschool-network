@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+# check host on network
 
 if [ "$1" ]
 then
